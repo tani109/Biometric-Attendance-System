@@ -1,0 +1,130 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Selected:1_6.bmp is selected for matching
+Recognized:95_5.bmp
+Selected:5_6.bmp is selected for matching
+Recognized:5_2.bmp
+Selected:6_6.bmp is selected for matching
+Recognized:6_2.bmp
+Selected:8_6.bmp is selected for matching
+Recognized:8_3.bmp
+Selected:11_6.bmp is selected for matching
+Recognized:11_3.bmp
+Selected:22_6.bmp is selected for matching
+Recognized:22_3.bmp
+Selected:28_6.bmp is selected for matching
+Recognized:28_5.bmp
+Selected:38_6.bmp is selected for matching
+Recognized:38_5.bmp
+Selected:40_6.bmp is selected for matching
+Recognized:40_5.bmp
+Selected:41_6.bmp is selected for matching
+Recognized:41_4.bmp
+Selected:58_6.bmp is selected for matching
+Recognized:58_5.bmp
+Selected:70_6.bmp is selected for matching
+Recognized:70_3.bmp
+Selected:71_6.bmp is selected for matching
+Recognized:71_3.bmp
+Selected:82_6.bmp is selected for matching
+Recognized:82_5.bmp
+Selected:107_6.bmp is selected for matching
+Recognized:107_5.bmp
+Selected:2016331009.bmp is selected for matching
+Recognized:9_3.bmp
+Selected:2016331012.bmp is selected for matching
+Recognized:12_5.bmp
+Selected:2016331015.bmp is selected for matching
+Recognized:15_5.bmp
+Selected:2016331017.bmp is selected for matching
+Recognized:6_3.bmp
+Selected:2016331018.bmp is selected for matching
+Recognized:18_3.bmp
+Selected:2016331019.bmp is selected for matching
+Recognized:19_5.bmp
+Selected:2016331023.bmp is selected for matching
+Recognized:23_5.bmp
+Selected:2016331024.bmp is selected for matching
+Recognized:24_3.bmp
+Selected:2016331027.bmp is selected for matching
+Recognized:27_1.bmp
+Selected:2016331031.bmp is selected for matching
+Recognized:31_1.bmp
+Selected:2016331033.bmp is selected for matching
+Recognized:33_5.bmp
+Selected:2016331035.bmp is selected for matching
+Recognized:35_5.bmp
+Selected:2016331037.bmp is selected for matching
+Recognized:37_3.bmp
+Selected:2016331042.bmp is selected for matching
+Recognized:42_5.bmp
+Selected:2016331044.bmp is selected for matching
+Recognized:44_5.bmp
+Selected:2016331045.bmp is selected for matching
+Recognized:6_3.bmp
+Selected:2016331049.bmp is selected for matching
+Recognized:49_5.bmp
+Selected:2016331054.bmp is selected for matching
+Recognized:54_5.bmp
+Selected:2016331055.bmp is selected for matching
+Recognized:55_3.bmp
+Selected:2016331057.bmp is selected for matching
+Recognized:57_5.bmp
+Selected:2016331059.bmp is selected for matching
+Recognized:59_5.bmp
+Selected:2016331060.bmp is selected for matching
+Recognized:60_5.bmp
+Selected:2016331066.bmp is selected for matching
+Recognized:66_5.bmp
+Selected:2016331069.bmp is selected for matching
+Recognized:69_5.bmp
+Selected:2016331072.bmp is selected for matching
+Recognized:41_4.bmp
+Selected:2016331073.bmp is selected for matching
+Recognized:73_1.bmp
+Selected:2016331075.bmp is selected for matching
+Recognized:75_5.bmp
+Selected:2016331078.bmp is selected for matching
+Recognized:78_5.bmp
+Selected:2016331083.bmp is selected for matching
+Recognized:83_2.bmp
+Selected:2016331085.bmp is selected for matching
+Recognized:85_5.bmp
+Selected:2016331086.bmp is selected for matching
+Recognized:86_3.bmp
+Selected:2016331088.bmp is selected for matching
+Recognized:88_1.bmp
+Selected:2016331089.bmp is selected for matching
+Recognized:89_5.bmp
+Selected:2016331090.bmp is selected for matching
+Recognized:90_5.bmp
+Selected:2016331091.bmp is selected for matching
+Recognized:91_5.bmp
+Selected:2016331092.bmp is selected for matching
+Recognized:95_5.bmp
+Selected:2016331093.bmp is selected for matching
+Recognized:93_5.bmp
+Selected:2016331094.bmp is selected for matching
+Recognized:94_3.bmp
+Selected:2016331095.bmp is selected for matching
+Recognized:95_5.bmp
+Selected:2016331097.bmp is selected for matching
+Recognized:105_5.bmp
+Selected:2016331098.bmp is selected for matching
+Recognized:98_5.bmp
+Selected:2016331099.bmp is selected for matching
+Recognized:41_4.bmp
+Selected:2016331100.bmp is selected for matching
+Recognized:8_4.bmp
+Selected:2016331101.bmp is selected for matching
+Recognized:101_5.bmp
+Selected:2016331103.bmp is selected for matching
+Recognized:58_5.bmp
+Selected:2016331105.bmp is selected for matching
+Recognized:105_5.bmp
+Selected:2016331106.bmp is selected for matching
+Recognized:106_5.bmp
+Selected:20163311003.bmp is selected for matching
+Recognized:03_5.bmp

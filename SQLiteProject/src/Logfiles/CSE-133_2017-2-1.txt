@@ -1,0 +1,64 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Selected:1_4.bmp is selected for matching
+Recognized:1_3.bmp
+Selected:5_4.bmp is selected for matching
+Recognized:5_3.bmp
+Selected:6_4.bmp is selected for matching
+Recognized:6_3.bmp
+Selected:8_4.bmp is selected for matching
+Recognized:8_1.bmp
+Selected:9_4.bmp is selected for matching
+Recognized:9_3.bmp
+Selected:11_4.bmp is selected for matching
+Recognized:11_3.bmp
+Selected:18_4.bmp is selected for matching
+Recognized:18_2.bmp
+Selected:19_4.bmp is selected for matching
+Recognized:19_3.bmp
+Selected:22_4.bmp is selected for matching
+Recognized:22_3.bmp
+Selected:24_4.bmp is selected for matching
+Recognized:24_2.bmp
+Selected:27_4.bmp is selected for matching
+Recognized:27_1.bmp
+Selected:28_4.bmp is selected for matching
+Recognized:28_1.bmp
+Selected:31_4.bmp is selected for matching
+Recognized:31_2.bmp
+Selected:37_4.bmp is selected for matching
+Recognized:37_3.bmp
+Selected:38_4.bmp is selected for matching
+Recognized:38_2.bmp
+Selected:40_4.bmp is selected for matching
+Recognized:40_3.bmp
+Selected:41_4.bmp is selected for matching
+Recognized:41_2.bmp
+Selected:53_4.bmp is selected for matching
+Recognized:53_1.bmp
+Selected:55_4.bmp is selected for matching
+Recognized:55_3.bmp
+Selected:57_4.bmp is selected for matching
+Recognized:57_2.bmp
+Selected:58_4.bmp is selected for matching
+Recognized:38_3.bmp
+Selected:70_4.bmp is selected for matching
+Recognized:70_3.bmp
+Selected:71_4.bmp is selected for matching
+Recognized:71_3.bmp
+Selected:73_4.bmp is selected for matching
+Recognized:73_3.bmp
+Selected:82_4.bmp is selected for matching
+Recognized:82_1.bmp
+Selected:83_4.bmp is selected for matching
+Recognized:83_3.bmp
+Selected:86_4.bmp is selected for matching
+Recognized:86_3.bmp
+Selected:88_4.bmp is selected for matching
+Recognized:88_2.bmp
+Selected:94_4.bmp is selected for matching
+Recognized:94_2.bmp
+Selected:107_4.bmp is selected for matching
+Recognized:107_2.bmp
